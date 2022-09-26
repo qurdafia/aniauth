@@ -1,1 +1,1 @@
-# Testing React Native UI inimation.
+# Testing React Native UI animation.
